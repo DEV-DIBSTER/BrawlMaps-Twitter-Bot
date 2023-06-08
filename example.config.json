@@ -1,0 +1,14 @@
+{
+    "BrawlStarsToken": "",
+    
+    "TwitterAPI_Key": "",
+    "TwitterAPI_KeySecret": "",
+
+    "Twitter_BearerToken": "",
+
+    "TwitterOAuth_ClientID": "",
+    "TwitterOAuth_ClientSecret": "",
+
+    "TwitterBot_AccessToken": "",
+    "TwitterBot_AccessSecret": ""
+}

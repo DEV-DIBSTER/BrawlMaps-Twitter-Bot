@@ -1,0 +1,24 @@
+{
+  "name": "brawlmaps-twitter-bot",
+  "version": "1.0.0",
+  "description": "Simple Twitter Bot to tweet out new maps!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "twitter",
+    "bot",
+    "automated",
+    "supercell",
+    "brawlstars",
+    "brawlstats",
+    "brawlify"
+  ],
+  "author": "DIBSTER",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "axios": "^1.2.4",
+    "twit": "^2.2.11"
+  }
+}
